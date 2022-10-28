@@ -56,14 +56,14 @@ pipeline{
         /*stage('email'){
             steps {
                     mail bcc: '', 
-                        body: ''' Bonjour Samar,
+                        body: ''' Bonjour ehssen,
                                   le pipeline a correctement marché
                                   Cordialement''', 
                         cc: '', 
                         from: '',
                         replyTo: '',
                         subject: 'Mailing CI', 
-                        to: 'testtest1999sam@gmail.com'
+                        to: 'testtest1999ehs@gmail.com'
  }}*/
         
 
